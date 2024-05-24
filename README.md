@@ -52,6 +52,8 @@ You can use these JSON files to populate your CouchDB database or modify them as
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
+Special thanks to [nguyenhoanthao](https://github.com/nguyenhoanthao) for his contributions to this project.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
